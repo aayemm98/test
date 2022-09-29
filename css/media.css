@@ -1,0 +1,437 @@
+@media (max-width: 1140px) {
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 1200px) {}
+
+@media (max-width: 1024px) {
+    .hero-global h1 {
+        font-size: 33px;
+    }
+    .hero-global p{
+        font-size: 19px;
+    }
+    .but-three {
+        flex-wrap: wrap;
+    }
+    #but {
+        padding:0;
+    }
+    .top {
+        padding: 33px;
+    }
+    .hero-global button {
+        font-size: 17px;
+        width: 140px;
+        height: 42px;
+    }
+}
+
+
+@media (max-width: 992px) {
+    .but-three {
+        flex-wrap: wrap;
+        align-content: center;
+    }
+    .hero-global h1 {
+        font-size: 30px;
+    }
+    .hero-global p {
+        font-size: 17px;
+    }
+    #contact {
+        padding: 32px;
+    }
+    .contact {
+        padding-right: 286px;
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 768px) {
+.very{
+    display: none;
+}
+    .hero-global {
+        height: 60vh;
+    }
+
+    .dark7{
+        width: 90%;
+    }
+    .tap-wer {
+        flex-direction: column;
+    }
+
+    .hero-global h1 {
+        font-size: 25px;
+    }
+
+    .hero-global p {
+        font-size: 15px;
+    }
+
+
+    .hero-global button {
+        font-size: 9px;
+        width: 99px;
+        height: 68px;
+    }
+    .meb {
+        padding-top: 0;
+    }
+    .hero-global button {
+        font-size: 9px;
+        width: 85px;
+        height: 32px;
+    }
+    .red5{
+        width: 90%;
+    }
+    .get h1 {
+        font-size: 25px;
+    }
+
+    .get p {
+        font-size: 13px;
+    }
+    .but-three {
+        flex-direction: column-reverse;
+    }
+
+    .contact {
+        padding-right: 116px;
+        align-content: flex-start;
+    }
+    .top-math {
+        padding-right: 89px;
+        padding-top: 10px;
+    }
+    .top button {
+        font-weight: 400;
+        font-size: 13px;
+        width: 99px;
+        height: 33px;
+    }
+    .top p {
+        text-align: center;
+    }
+    .top h2{
+    text-align: center;
+    }
+    .top img {
+        padding-right: 0;
+    }
+    .hero-global button {
+        font-size: 10px;
+        width: 109px;
+    }
+    .top-math {
+        padding-right: 0;
+        padding-top: 15px;
+    }
+    .top-math {
+        padding: 20px;
+    }
+    #contact {
+        padding: 32px;
+    }
+    #but {
+        padding: 0;
+    }
+    #tap {
+        padding-top: 0;
+    }
+}
+
+
+@media (max-width: 576px) {
+    .hero-global h1 {
+        font-size: 25px;
+    }
+    .hero-global p {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .contact p {
+        font-size: 14px;
+    }
+    .about h1 {
+        font-size: 15px;
+    }
+    .but-two h1 {
+        font-size: 25px;
+    }
+
+    .tap-wer {
+        flex-direction: column-reverse;
+    }
+
+    .hero-global {
+        flex-direction: column-reverse;
+        height: 110vh;
+    }
+    .top {
+        padding: 0;
+    }
+    .hero-global button {
+        font-size: 12px;
+        width: 95px;
+        height: 30px;
+        line-height: 0;
+    }
+    .meb{
+        padding: 25px;
+    }
+    #tap {
+    padding-top: 47px;
+    }
+    #hero {
+        padding-top: 90px;
+    }
+    .ker{
+        padding: 20px;
+    }
+
+}
+
+@media (max-width: 450px) {
+    .hero-global {
+        flex-direction: column;
+        height: 117vh;
+    }
+    .get h1 {
+        font-size: 25px;
+    }
+
+    .get p {
+        font-size: 10px;
+    }
+    .tap-wer{
+        display: flex;
+        flex-direction: column;
+    }
+    .but-two h1 {
+        font-size: 14px;
+    }
+    .hero-global h1 {
+        font-size: 18px;
+    }
+    .hero-global p {
+        font-size: 14px;
+    }
+    .ker{
+        padding: 30px;
+    }
+}
+@media (max-width: 426px) {
+    .but-three {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    #hero {
+        padding-top: 0;
+    }
+    .top h2{
+        font-size: 22px;
+    }
+    .top p{
+        font-size: 14px;
+    }
+    .top button {
+        font-size: 10px;
+        width: 83px;
+        height: 24px;
+    }
+    .top img {
+         padding-right: 0;
+    }.top h2 {
+             font-size: 22px;
+          text-align: center;
+     }
+     .top p{
+         text-align: center;
+     }
+
+    .hero-global button {
+        font-size: 10px;
+        width: 109px;
+    }
+    .top-math {
+        padding-right: 0;
+        padding-top: 15px;
+    }
+    .top img {
+        padding-right: 0;
+    }
+    .contact {
+        flex-wrap: wrap;
+    }
+    .get h1 {
+        font-size: 18px;
+    }
+    .about-me h1 {
+        font-size: 15px;
+    }
+    .hero{
+        padding-top: 0;
+    }
+    .contact-map{
+        padding-left:10px;
+    }
+    .mer{
+        padding: 10px;
+    }
+    .hero-global h1{
+text-align: center;
+    }
+    .hero-global p {
+        text-align: center;
+    }
+    .hero-global button {
+        font-size: 9px;
+        width: 98px;
+        height: 26px;
+    }
+    .meb {
+        padding-left: 119px;
+    }
+    #hero {
+        padding-top: -34px;
+    }
+    #hero {
+        padding-top: -44px;
+    }
+    #hero {
+        padding-top: 0;
+    }
+    .hero-global {
+        height: 81vh;
+    }
+}
+@media (max-width: 400px) {
+    #about {
+        height: 69px;
+        }
+    .meb {
+        padding: 5px;
+    }
+    .hero-global button {
+        font-size: 9px;
+        width: 74px;
+        height: 23px;
+        line-height: 0;
+}
+    .meb {
+        padding: 5px;
+    }
+    .but-two h1 {
+        font-size: 13px;
+    }
+    .top-math {
+        padding: 20px;
+    }
+    .hero-global p {
+        line-height: 20px;
+        text-align: center;
+    }
+    .hero-global h1 {
+        font-size: 16px;
+        text-align: center;
+    }
+    .meb {
+        margin-left: 95px;
+    }
+    #but {
+        padding: 0;
+    }
+    .contact {
+        flex-direction: column;
+    }
+    .contact-map {
+        padding-left: 0;
+    }
+    .about-me h1 {
+        font-size: 14px;
+    }
+    #contact {
+        padding: 47px;
+    }
+    .mer{
+        padding: 14px;
+    }
+    .meb {
+        margin-left: 118px;
+    }
+    .hero-global {
+        height: 104vh;
+    }
+    .but-two h1 {
+        padding: 39px;
+    }
+}
+@media (max-width: 380px) {
+    #but {
+        margin: 0;
+    }
+    .meb {
+        margin-left: 97px;
+    }
+    .contact {
+        align-items: center;
+    }
+    #about {
+        height: 33px;
+        padding: 20px;
+    }
+    .about-me h1 {
+        font-size: 12px;
+    }
+    .contact h2 {
+        font-size: 18px;
+    }
+    .contact p {
+        font-size: 14px;
+    }
+    .hero-global {
+        height: 64vh;
+    }
+}
+@media (max-width: 376px) {
+    #but {
+        padding: 0;
+    }
+    .contact h2 {
+        font-size: 15px;
+    }
+    .contact p {
+        font-size: 12px;
+    }
+    #about {
+        height: 65px;
+        padding: 0;
+    }
+    .about-me h1 {
+        padding: 20px;
+    }
+    .hero-global{
+        padding: 22px;
+    }
+    .hero-global h1 {
+        font-size: 19px;
+    }
+    .meb {
+        margin-left: 76px;
+    }
+    .meb {
+        margin-left: -55px;
+    }
+    .hero-global {
+        height: 63vh;
+    }
+    .meb {
+        margin-left: 71px;
+    }
+}
+@media (max-width: 320px) {}

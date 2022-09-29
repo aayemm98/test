@@ -1,0 +1,252 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+}
+body{
+    font-family: "Roboto",sans-serif;
+}
+#header{
+    padding: 0 15px;
+    background: #FFFFFF;
+box-shadow: 0 1px 4px rgba(0,0,0,0.25);
+}
+.navbar-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-icons div{
+    padding: 0 15px;
+}
+.navbar-nav a{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: rgba(31, 46, 53, 0.8)
+}
+.navbar-nav select{
+    border: none;
+}
+.hero-global h1{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 133.69%;
+    /* or 64px */
+
+
+    color: #1F2E35;
+}
+.hero-global span{
+    color: #EE4248;
+}
+.hero-global{
+    padding-top: 50px;
+}
+.hero-global p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    color: #30444E;
+}
+
+.hero-global button{
+
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+    width: 161px;
+    height: 53px;
+    left: 0px;
+    top: 372px;
+border: none;
+    background: #EE4248;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+.meb{
+    padding-top: 40px;
+}
+.hero-global{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90vh;
+}
+
+.get h1{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 133.69%;
+    /* or 43px */
+    width: 100%;
+    padding-bottom: 20px;
+
+    color: #1F2E35;
+}
+
+.get p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    width: 100%;
+    padding-bottom: 25px;
+    color: #30444E;
+}
+.get span{
+    color: #EE4248;
+}
+#tap{
+    background: #F6F6F6;
+    padding-top: 90px;
+}
+
+.tap-wer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about{
+    padding-bottom: 110px;
+    padding-right: 40px;
+}
+.top{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 133.69%;
+    text-align: center;
+
+    color: #1F2E35;
+}
+#but{
+    padding: 100px;
+}
+.but-two h1{
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 133.69%;
+    /* or 37px */
+text-align: center;
+
+    color: #1F2E35;
+    padding: 70px;
+}
+.top img{
+    padding-right: 190px;
+}
+.top h2{
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 133.69%;
+    /* or 37px */
+text-align: start;
+
+    color: #EE4248;
+
+}
+.top p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #30444E;
+    text-align: start;
+
+}
+.top button{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 144.69%;
+    /* identical to box height, or 26px */
+
+    color: #FFFFFF;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    width: 119px;
+    height: 42px;
+    left: 24px;
+    top: 314px;
+border: none;
+    background: #EE4248;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+.top-math{
+    padding-right: 190px;
+    padding-top: 30px;
+}
+.but-three {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#contact{
+    padding: 90px;
+}
+.contact{
+    display: flex;
+    justify-content: space-evenly;
+
+    padding-right: 490px;
+}
+.contact-map{
+    padding-left: 100px;
+}
+.contact h2{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #263238;
+}
+.contact p{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 149.19%;
+    /* or 27px */
+
+
+    color: #263238;
+}
+#about{
+    background: #EE4248;
+    height: 50px;
+    width: 100%;
+    padding-top: 60px;
+}
+
+.about-me h1{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    padding-top: -47px;
+text-align: center;
+    color: #FFFFFF;
+    padding-bottom: 26px;
+}
